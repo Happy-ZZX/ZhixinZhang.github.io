@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : ![Zhixin Zhang](https://github.com/Happy-ZZX/ZhixinZhang.github.io/blob/master/images/ZZX.jpg)
   name             : "Zhixin Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Manchester, UK"
+  employer         : "University of Manchester"
   uri              : # URL
   email            : "none@example.org" 
 
