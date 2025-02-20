@@ -21,7 +21,7 @@ repository               : "happy-zzx/ZhixinZhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : image.png
+  avatar           : "image.png"
   name             : "Zhixin Zhang"
   pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
