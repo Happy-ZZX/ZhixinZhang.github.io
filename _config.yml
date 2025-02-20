@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ![m](https://github.com/Happy-ZZX/ZhixinZhang.github.io/blob/master/0.jpg)
+  avatar           : ![m](https://github.com/Happy-ZZX/ZhixinZhang.github.io/raw/master/0.jpg)
   name             : "Zhixin Zhang"
   pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
