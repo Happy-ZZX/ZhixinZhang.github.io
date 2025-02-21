@@ -12,7 +12,7 @@ I'm a PhD student from [Department of Electrical and Electronic Engineering](htt
 Looking For Opportunity
 ---
 
-I am currently looking for any internship or visiting opportunities related to SLAM.
+I am currently looking for any internship or visiting opportunities related to SLAM and VINS.
 
 
 Visitor Map
