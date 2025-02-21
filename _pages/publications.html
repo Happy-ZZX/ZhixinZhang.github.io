@@ -5,32 +5,30 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <img src="images/iros2017_nullspace1.png" alt="Nullspace" width="300" height="240">
+          </td>
+          <td width="75%" valign="middle">
+            <a href="papers/2017_iros_null.pdf">
+              <papertitle>Null-Space-based Marginalization: Analysis and Algorithm</papertitle>
+            </a>
+            <br>
+            <strong>Yulin Yang</strong>, <a href="https://sites.udel.edu/robot/people/">James Maley</a>, <a href="https://udel.edu/~ghuang/">Guoquan(Paul) Huang</a>
+            <br>
+            <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2017
+            <br>
+            <a href="data/Yang2017IROS_nullspace.bib">bibtex</a>
+            <br>
+            <p></p>
+            <p>Null-space is equivalent to Schur complement with i.i.d. noise.
+              <br>
+              Time complexity analysis for Null-space and Schur complement.
+              <br>
+              Analytic null-space for MSCKF.
+            </p>
+          </td>
+        </tr>
 
 
