@@ -26,7 +26,7 @@ I am currently looking for any internship or visiting opportunities related to S
           <td style="padding:25px;width:25%;vertical-align:middle">
             <p style="text-align:center;font-size:small;">
 <!--              <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=SmVNKAru4SRtedjTqTTFYIJmNGoHTrBK5VOIsscudyM'></script>-->
-              <<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=WAlYx0Jg35GATrSqOJcdBrjwWYHpw7rB1_t9cjBqiao'></script>>
+              <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=WAlYx0Jg35GATrSqOJcdBrjwWYHpw7rB1_t9cjBqiao'></script>
             </p>
           </td>
         </tr>
