@@ -13,14 +13,6 @@ Looking For Opportunity
 ---
 I am currently looking for any internship or visiting opportunities related to SLAM.
 <body>
-  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-          <tr>
-            <td style="padding:0px">
-              <br>
-              </p>
-            </td>
-          </tr>
-        </tbody></table>
         <table style="width:25%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
         <tr>
           <td style="padding:25px;width:25%;vertical-align:middle">
