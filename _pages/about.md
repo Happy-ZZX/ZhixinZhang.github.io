@@ -15,5 +15,5 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----"
+---
 I am currently looking for any internship or visiting opportunities related to SLAM.
