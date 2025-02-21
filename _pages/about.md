@@ -31,8 +31,5 @@ I am currently looking for any internship or visiting opportunities related to S
           </td>
         </tr>
         </tbody></table>
-
-      </td>
-    </tr>
   </table>
 </body>
