@@ -28,4 +28,31 @@ Visitor Map
           </td>
         </tr>
         </tbody></table>
+
+          <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <img src="images/2023_gnc.png" alt="secure" width="300" height="250">
+          </td>
+          <td width="75%" valign="middle">
+            <a href="papers/2023_gnc.pdf">
+              <papertitle>Resilient Ground Vehicle Autonomous Navigation in GPS-Denied Environment</papertitle>
+            </a>
+            <br>
+            <a href="https://udel.edu">Kleio Baxevani</a>,
+            <a href="https://udel.edu">Indrajeet Yadav</a>,
+            <strong>Yulin Yang*</strong>,
+            <a href="https://udel.edu">Michael Sebok</a>,
+            <a href="http://research.me.udel.edu/~btanner/index.html">Herbert G. Tanner</a>,
+            <a href="https://udel.edu/~ghuang/">Guoquan(Paul) Huang</a>
+            <br>
+            <em>Guidance, Navigation and Control</em>, 2023
+            <br>
+            <a href="data/Kleo2023GNC.bib">bibtex</a>
+            <br>
+            <p></p>
+            <p>
+              Autonomous path planning and sensor calibration for unmanned ground vehicle.
+            </p>
+          </td>
+        </tr>
 </body>
