@@ -18,12 +18,12 @@ News:
 
 Looking For Opportunity
 ---
-I am currently looking for internship or visiting opportunities related to SLAM and VINS.
+I am currently looking for internship or visiting opportunities related to SLAM, LIO, and VINS.
 
 Academic Service
 ---
-- **Conference Reviewer**: TAROS 2024, IROS 2025  
-- **Journal Reviewer**: RA-L, 2025, T-RO, 2025
+- **Conference Reviewer**: TAROS 2024, IROS 2025
+- **Journal Reviewer**: RA-L 2025, T-RO 2025
 
 Visitor Map
 ---
