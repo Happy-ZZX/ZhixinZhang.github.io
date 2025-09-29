@@ -23,7 +23,7 @@ I am currently looking for internship or visiting opportunities related to SLAM 
 Academic Service
 ---
 - **Conference Reviewer**: TAROS 2024, IROS 2025  
-- **Journal Reviewer**: IEEE Robotics and Automation Letters (RA-L, 2025), IEEE Transactions on Robotics (T-RO, 2025)
+- **Journal Reviewer**: RA-L, 2025, T-RO, 2025
 
 Visitor Map
 ---
