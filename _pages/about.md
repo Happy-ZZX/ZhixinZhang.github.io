@@ -10,17 +10,20 @@ I'm a PhD student from [Department of Electrical and Electronic Engineering](htt
 
 News:
 ---
-* [2025.9] We release the paper for [PL-VIWO2](https://www.arxiv.org/abs/2509.21563) which is extend from PL-VIWO. Code is coming soon.
-* [2025.6] PL-VIWO is accepted by IROS 2025.
-* [2025.4] We release the code and paper for PL-VIWO. The code can now be found [here](https://github.com/Happy-ZZX/PL-VIWO).
+* **2025.9** - We release the paper for [PL-VIWO2](https://www.arxiv.org/abs/2509.21563) which is extend from PL-VIWO. Code is coming soon.
+* **2025.6** - 🎉🎉🎉 PL-VIWO is accepted by IROS 2025 !!!
+* **2025.4** - We release the code and paper for PL-VIWO. The code can now be found [here](https://github.com/Happy-ZZX/PL-VIWO).
 
 
 
 Looking For Opportunity
 ---
-
 I am currently looking for internship or visiting opportunities related to SLAM and VINS.
 
+Academic Service
+---
+Conference Reviewer: TAROS 2024, IROS 2025;
+Journal Reviewer: RA-L 2025, T-RO 2025.
 
 Visitor Map
 ---
