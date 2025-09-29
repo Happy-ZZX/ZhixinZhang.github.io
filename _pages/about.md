@@ -10,7 +10,7 @@ I'm a PhD student from [Department of Electrical and Electronic Engineering](htt
 
 News:
 ---
-* [2025.9] We release the paper for PL-VIWO2 which is extend from PL-VIWO. Code is coming soon.
+* [2025.9] We release the paper for PL-VIWO2 ([https://www.arxiv.org/abs/2509.21563]) which is extend from PL-VIWO. Code is coming soon.
 * [2025.6] PL-VIWO is accepted by IROS 2025.
 * [2025.4] We release the code and paper for PL-VIWO. The code can now be found [here]([https://github.com/sair-lab/AirSLAM/tree/airvo_iros](https://github.com/Happy-ZZX/PL-VIWO)).
 
